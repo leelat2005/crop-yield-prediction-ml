@@ -11,7 +11,7 @@ This project builds a predictive machine learning model to estimate crop yield b
 - Google Colab
 
 ## Model Used
-Random Forest Regressor (Primary Model)
+Random Forest Regressor 
 
 ## Results
 Achieved strong predictive performance with high R² score and low MAE.
